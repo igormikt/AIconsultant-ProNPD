@@ -4,7 +4,9 @@ AI-бот для консультаций по налогу на професс�
 
 ![Achitecchure](images/tg01.jpg)   ![Achitecchure](images/tg02.jpg)
 
- ===          ===                                                                                                     
+ ===          ===    
+![Achitecchure](images/tg02.jpg)
+ ===          === 
 
 ![Achitecchure](images/architecture.png)
 
