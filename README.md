@@ -2,8 +2,9 @@
 
 AI-бот для консультаций по налогу на профессиональный доход с использованием GPT-4 и RAG.
 
-![Achitecchure](images/tg01.jpg)
-![Achitecchure](images/tg02.jpg)
+![Achitecchure](images/tg01.jpg)   ![Achitecchure](images/tg02.jpg)
+
+ ===          ===                                                                                                     
 
 ![Achitecchure](images/architecture.png)
 
